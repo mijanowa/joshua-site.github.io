@@ -1,2 +1,2 @@
-# http://Joshua-site.github.io
+# http://joshua-site.github.io
  
