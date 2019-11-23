@@ -1,2 +1,2 @@
-# https://mijanowa.github.io/joshua-site.github.io/
+# https://mijanowa.github.io/sample/
  
