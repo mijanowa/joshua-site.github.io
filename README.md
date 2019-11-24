@@ -1,3 +1,3 @@
 # Sample simple resume page
-https://mijanowa.github.io/sample/
+https://mijanowa.github.io/sampleresume/
  
